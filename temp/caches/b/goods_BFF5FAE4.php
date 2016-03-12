@@ -1,4 +1,4 @@
-<?php exit;?>a:3:{s:8:"template";a:17:{i:0;s:45:"/var/www/ecshop/themes/default-0305/goods.dwt";i:1;s:59:"/var/www/ecshop/themes/default-0305/library/page_header.lbi";i:2;s:55:"/var/www/ecshop/themes/default-0305/library/ur_here.lbi";i:3;s:52:"/var/www/ecshop/themes/default-0305/library/cart.lbi";i:4;s:61:"/var/www/ecshop/themes/default-0305/library/category_tree.lbi";i:5;s:61:"/var/www/ecshop/themes/default-0305/library/goods_related.lbi";i:6;s:62:"/var/www/ecshop/themes/default-0305/library/goods_fittings.lbi";i:7;s:61:"/var/www/ecshop/themes/default-0305/library/goods_article.lbi";i:8;s:64:"/var/www/ecshop/themes/default-0305/library/goods_attrlinked.lbi";i:9;s:55:"/var/www/ecshop/themes/default-0305/library/history.lbi";i:10;s:61:"/var/www/ecshop/themes/default-0305/library/goods_gallery.lbi";i:11;s:58:"/var/www/ecshop/themes/default-0305/library/goods_tags.lbi";i:12;s:60:"/var/www/ecshop/themes/default-0305/library/bought_goods.lbi";i:13;s:65:"/var/www/ecshop/themes/default-0305/library/bought_note_guide.lbi";i:14;s:56:"/var/www/ecshop/themes/default-0305/library/comments.lbi";i:15;s:52:"/var/www/ecshop/themes/default-0305/library/help.lbi";i:16;s:59:"/var/www/ecshop/themes/default-0305/library/page_footer.lbi";}s:7:"expires";i:1457361808;s:8:"maketime";i:1457358208;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?php exit;?>a:3:{s:8:"template";a:17:{i:0;s:45:"/var/www/ecshop/themes/default-0305/goods.dwt";i:1;s:59:"/var/www/ecshop/themes/default-0305/library/page_header.lbi";i:2;s:55:"/var/www/ecshop/themes/default-0305/library/ur_here.lbi";i:3;s:52:"/var/www/ecshop/themes/default-0305/library/cart.lbi";i:4;s:61:"/var/www/ecshop/themes/default-0305/library/category_tree.lbi";i:5;s:61:"/var/www/ecshop/themes/default-0305/library/goods_related.lbi";i:6;s:62:"/var/www/ecshop/themes/default-0305/library/goods_fittings.lbi";i:7;s:61:"/var/www/ecshop/themes/default-0305/library/goods_article.lbi";i:8;s:64:"/var/www/ecshop/themes/default-0305/library/goods_attrlinked.lbi";i:9;s:55:"/var/www/ecshop/themes/default-0305/library/history.lbi";i:10;s:61:"/var/www/ecshop/themes/default-0305/library/goods_gallery.lbi";i:11;s:58:"/var/www/ecshop/themes/default-0305/library/goods_tags.lbi";i:12;s:60:"/var/www/ecshop/themes/default-0305/library/bought_goods.lbi";i:13;s:65:"/var/www/ecshop/themes/default-0305/library/bought_note_guide.lbi";i:14;s:56:"/var/www/ecshop/themes/default-0305/library/comments.lbi";i:15;s:52:"/var/www/ecshop/themes/default-0305/library/help.lbi";i:16;s:59:"/var/www/ecshop/themes/default-0305/library/page_footer.lbi";}s:7:"expires";i:1457620481;s:8:"maketime";i:1457616881;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta name="Generator" content="ECSHOP v2.7.3" />
@@ -345,7 +345,7 @@ document.getElementById('history_list').innerHTML = '您已清空最近浏览过
              <strong>上架时间：</strong>2016-03-04             </dd>
        <dd class="ddR">
        
-       <strong>商品点击数：</strong>9       </dd>
+       <strong>商品点击数：</strong>12       </dd>
       </li>
       <li class="clearfix">
        <dd class="ddL">
@@ -510,7 +510,8 @@ document.getElementById('history_list').innerHTML = '您已清空最近浏览过
  朝阳区凯旋城                <a href="http://wpa.qq.com/msgrd?V=1&amp;Uin=123456&amp;Site=商用车自媒体联盟&amp;Menu=yes" target="_blank"><img src="http://wpa.qq.com/pa?p=1:123456:4" height="16" border="0" alt="QQ" /> 123456</a>
                                                                                 <br />
    </div>
-</div></body>
+</div>
+</body>
 <script type="text/javascript">
 var goods_id = 15;
 var goodsattr_style = 1;
@@ -521,7 +522,7 @@ var minute = "分钟";
 var second = "秒";
 var end = "结束";
 var goodsId = 15;
-var now_time = 1457329408;
+var now_time = 1457588081;
 onload = function(){
   changePrice();
   fixpng();

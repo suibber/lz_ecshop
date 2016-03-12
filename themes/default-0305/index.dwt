@@ -74,7 +74,12 @@
     <div class="content">
         <div class="loginBox_show">
             <ul class="bannerHome_show bannerBoxContent">
-                <li><a target="_blank" href="http://chuanbo.weiboyi.com/wbq/index"><img src="index_files/banner_media02_v2.jpg"></a></li><li style="display: none;"><img src="index_files/banner_media03_v2.jpg"></li><li style="display: none;"><img src="index_files/banner_media01_v2.jpg"></li><li style="display: none;"><img src="index_files/banner_media04_v2.jpg"></li>            </ul>
+		<!-- TemplateBeginEditable name="首页-滚动图" -->
+<!-- #BeginLibraryItem "/library/ad_position.lbi" -->
+
+{insert name='ads' id=$ads_id num=$ads_num}
+ <!-- #EndLibraryItem -->
+<!-- TemplateEndEditable -->
             <div class="bannerHome_fixedContent">
                 <span class="bannerHome_tabLeft"></span>
                 <ul class="bannerBoxControl">
@@ -272,11 +277,11 @@
 			</div>
 		</div>
 		<div class="ft_index_list_top_left">
-			{$goods_cat.name|escape:html}
+			{$goods.name|escape:html}
 		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：{$goods.goods_brief}
+		粉丝数：{$goods.brief}
 	</div>
     </div>
 <!-- {/foreach} -->
@@ -299,11 +304,11 @@
 			</div>
 		</div>
 		<div class="ft_index_list_top_left">
-			{$goods_cat.name|escape:html}
+			{$goods.name|escape:html}
 		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：{$goods.market_price}
+		粉丝数：{$goods.brief}
 	</div>
     </div>
 <!-- {/foreach} -->
@@ -326,11 +331,11 @@
 			</div>
 		</div>
 		<div class="ft_index_list_top_left">
-			{$goods_cat.name|escape:html}
+			{$goods.name|escape:html}
 		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：{$goods.market_price}
+		粉丝数：{$goods.brief}
 	</div>
     </div>
 <!-- {/foreach} -->
@@ -353,11 +358,11 @@
 			</div>
 		</div>
 		<div class="ft_index_list_top_left">
-			{$goods_cat.name|escape:html}
+			{$goods.name|escape:html}
 		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：{$goods.market_price}
+		粉丝数：{$goods.brief}
 	</div>
     </div>
 <!-- {/foreach} -->
@@ -380,11 +385,11 @@
 			</div>
 		</div>
 		<div class="ft_index_list_top_left">
-			{$goods_cat.name|escape:html}
+			{$goods.name|escape:html}
 		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：{$goods.market_price}
+		粉丝数：{$goods.brief}
 	</div>
     </div>
 <!-- {/foreach} -->
@@ -410,11 +415,11 @@
 			</div>
 		</div>
 		<div class="ft_index_list_top_left">
-			{$goods_cat.name|escape:html}
+			{$goods.name|escape:html}
 		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：{$goods.market_price}
+		粉丝数：{$goods.brief}
 	</div>
     </div>
 <!-- {/foreach} -->
@@ -437,11 +442,11 @@
 			</div>
 		</div>
 		<div class="ft_index_list_top_left">
-			{$goods_cat.name|escape:html}
+			{$goods.name|escape:html}
 		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：{$goods.market_price}
+		粉丝数：{$goods.brief}
 	</div>
     </div>
 <!-- {/foreach} -->
@@ -464,11 +469,11 @@
 			</div>
 		</div>
 		<div class="ft_index_list_top_left">
-			{$goods_cat.name|escape:html}
+			{$goods.name|escape:html}
 		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：{$goods.market_price}
+		粉丝数：{$goods.brief}
 	</div>
     </div>
 <!-- {/foreach} -->
@@ -491,92 +496,11 @@
 			</div>
 		</div>
 		<div class="ft_index_list_top_left">
-			{$goods_cat.name|escape:html}
+			{$goods.name|escape:html}
 		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：{$goods.market_price}
-	</div>
-    </div>
-<!-- {/foreach} -->
-</div>
-<div class="blank"></div>
-
- <!-- #EndLibraryItem -->
-<!-- #BeginLibraryItem "/library/cat_goods.lbi" -->
-
-<div style="display: block" class="accountCotent_left_content">
-<!--{foreach from=$cat_goods item=goods}-->
-    <div class="ft_index_list">
-	<div class="ft_index_list_top">
-		<div class="ft_index_list_top_right">
-			<div>
-				<a href="{$goods.url}"><img src="{$goods.thumb}" alt="{$goods.name|escape:html}" class="goodsimg" /></a>
-			</div>
-			<div>
-				查看报价
-			</div>
-		</div>
-		<div class="ft_index_list_top_left">
-			{$goods_cat.name|escape:html}
-		</div>
-	</div>
-	<div class="ft_index_list_bottom">
-		粉丝数：{$goods.market_price}
-	</div>
-    </div>
-<!-- {/foreach} -->
-</div>
-<div class="blank"></div>
-
- <!-- #EndLibraryItem -->
-<!-- #BeginLibraryItem "/library/cat_goods.lbi" -->
-
-<div style="display: block" class="accountCotent_left_content">
-<!--{foreach from=$cat_goods item=goods}-->
-    <div class="ft_index_list">
-	<div class="ft_index_list_top">
-		<div class="ft_index_list_top_right">
-			<div>
-				<a href="{$goods.url}"><img src="{$goods.thumb}" alt="{$goods.name|escape:html}" class="goodsimg" /></a>
-			</div>
-			<div>
-				查看报价
-			</div>
-		</div>
-		<div class="ft_index_list_top_left">
-			{$goods_cat.name|escape:html}
-		</div>
-	</div>
-	<div class="ft_index_list_bottom">
-		粉丝数：{$goods.market_price}
-	</div>
-    </div>
-<!-- {/foreach} -->
-</div>
-<div class="blank"></div>
-
- <!-- #EndLibraryItem -->
-<!-- #BeginLibraryItem "/library/cat_goods.lbi" -->
-
-<div style="display: block" class="accountCotent_left_content">
-<!--{foreach from=$cat_goods item=goods}-->
-    <div class="ft_index_list">
-	<div class="ft_index_list_top">
-		<div class="ft_index_list_top_right">
-			<div>
-				<a href="{$goods.url}"><img src="{$goods.thumb}" alt="{$goods.name|escape:html}" class="goodsimg" /></a>
-			</div>
-			<div>
-				查看报价
-			</div>
-		</div>
-		<div class="ft_index_list_top_left">
-			{$goods_cat.name|escape:html}
-		</div>
-	</div>
-	<div class="ft_index_list_bottom">
-		粉丝数：{$goods.market_price}
+		粉丝数：{$goods.brief}
 	</div>
     </div>
 <!-- {/foreach} -->

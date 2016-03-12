@@ -77,7 +77,9 @@
     <div class="content">
         <div class="loginBox_show">
             <ul class="bannerHome_show bannerBoxContent">
-                <li><a target="_blank" href="http://chuanbo.weiboyi.com/wbq/index"><img src="index_files/banner_media02_v2.jpg"></a></li><li style="display: none;"><img src="index_files/banner_media03_v2.jpg"></li><li style="display: none;"><img src="index_files/banner_media01_v2.jpg"></li><li style="display: none;"><img src="index_files/banner_media04_v2.jpg"></li>            </ul>
+		
+<?php $this->assign('ads_id','2'); ?><?php $this->assign('ads_num','4'); ?><?php echo $this->fetch('library/ad_position.lbi'); ?>
+
             <div class="bannerHome_fixedContent">
                 <span class="bannerHome_tabLeft"></span>
                 <ul class="bannerBoxControl">
@@ -276,9 +278,6 @@ if ($this->_foreach['catname']['total'] > 0):
 		
 <?php $this->assign('cat_goods',$this->_var['cat_goods_3']); ?><?php $this->assign('goods_cat',$this->_var['goods_cat_3']); ?><?php echo $this->fetch('library/cat_goods.lbi'); ?>
 <?php $this->assign('cat_goods',$this->_var['cat_goods_4']); ?><?php $this->assign('goods_cat',$this->_var['goods_cat_4']); ?><?php echo $this->fetch('library/cat_goods.lbi'); ?>
-<?php $this->assign('cat_goods',$this->_var['cat_goods_5']); ?><?php $this->assign('goods_cat',$this->_var['goods_cat_5']); ?><?php echo $this->fetch('library/cat_goods.lbi'); ?>
-<?php $this->assign('cat_goods',$this->_var['cat_goods_6']); ?><?php $this->assign('goods_cat',$this->_var['goods_cat_6']); ?><?php echo $this->fetch('library/cat_goods.lbi'); ?>
-<?php $this->assign('cat_goods',$this->_var['cat_goods_7']); ?><?php $this->assign('goods_cat',$this->_var['goods_cat_7']); ?><?php echo $this->fetch('library/cat_goods.lbi'); ?>
 <?php $this->assign('cat_goods',$this->_var['cat_goods_8']); ?><?php $this->assign('goods_cat',$this->_var['goods_cat_8']); ?><?php echo $this->fetch('library/cat_goods.lbi'); ?>
 <?php $this->assign('cat_goods',$this->_var['cat_goods_9']); ?><?php $this->assign('goods_cat',$this->_var['goods_cat_9']); ?><?php echo $this->fetch('library/cat_goods.lbi'); ?>
 

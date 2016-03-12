@@ -1,11 +1,11 @@
-<?php exit;?>a:3:{s:8:"template";a:17:{i:0;s:45:"/var/www/ecshop/themes/default-0305/goods.dwt";i:1;s:59:"/var/www/ecshop/themes/default-0305/library/page_header.lbi";i:2;s:55:"/var/www/ecshop/themes/default-0305/library/ur_here.lbi";i:3;s:52:"/var/www/ecshop/themes/default-0305/library/cart.lbi";i:4;s:61:"/var/www/ecshop/themes/default-0305/library/category_tree.lbi";i:5;s:61:"/var/www/ecshop/themes/default-0305/library/goods_related.lbi";i:6;s:62:"/var/www/ecshop/themes/default-0305/library/goods_fittings.lbi";i:7;s:61:"/var/www/ecshop/themes/default-0305/library/goods_article.lbi";i:8;s:64:"/var/www/ecshop/themes/default-0305/library/goods_attrlinked.lbi";i:9;s:55:"/var/www/ecshop/themes/default-0305/library/history.lbi";i:10;s:61:"/var/www/ecshop/themes/default-0305/library/goods_gallery.lbi";i:11;s:58:"/var/www/ecshop/themes/default-0305/library/goods_tags.lbi";i:12;s:60:"/var/www/ecshop/themes/default-0305/library/bought_goods.lbi";i:13;s:65:"/var/www/ecshop/themes/default-0305/library/bought_note_guide.lbi";i:14;s:56:"/var/www/ecshop/themes/default-0305/library/comments.lbi";i:15;s:52:"/var/www/ecshop/themes/default-0305/library/help.lbi";i:16;s:59:"/var/www/ecshop/themes/default-0305/library/page_footer.lbi";}s:7:"expires";i:1457621015;s:8:"maketime";i:1457617415;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?php exit;?>a:3:{s:8:"template";a:17:{i:0;s:45:"/var/www/ecshop/themes/default-0305/goods.dwt";i:1;s:59:"/var/www/ecshop/themes/default-0305/library/page_header.lbi";i:2;s:55:"/var/www/ecshop/themes/default-0305/library/ur_here.lbi";i:3;s:52:"/var/www/ecshop/themes/default-0305/library/cart.lbi";i:4;s:61:"/var/www/ecshop/themes/default-0305/library/category_tree.lbi";i:5;s:61:"/var/www/ecshop/themes/default-0305/library/goods_related.lbi";i:6;s:62:"/var/www/ecshop/themes/default-0305/library/goods_fittings.lbi";i:7;s:61:"/var/www/ecshop/themes/default-0305/library/goods_article.lbi";i:8;s:64:"/var/www/ecshop/themes/default-0305/library/goods_attrlinked.lbi";i:9;s:55:"/var/www/ecshop/themes/default-0305/library/history.lbi";i:10;s:61:"/var/www/ecshop/themes/default-0305/library/goods_gallery.lbi";i:11;s:58:"/var/www/ecshop/themes/default-0305/library/goods_tags.lbi";i:12;s:60:"/var/www/ecshop/themes/default-0305/library/bought_goods.lbi";i:13;s:65:"/var/www/ecshop/themes/default-0305/library/bought_note_guide.lbi";i:14;s:56:"/var/www/ecshop/themes/default-0305/library/comments.lbi";i:15;s:52:"/var/www/ecshop/themes/default-0305/library/help.lbi";i:16;s:59:"/var/www/ecshop/themes/default-0305/library/page_footer.lbi";}s:7:"expires";i:1457624348;s:8:"maketime";i:1457620748;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta name="Generator" content="ECSHOP v2.7.3" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="Keywords" content="" />
-<meta name="Description" content="15000" />
-<title>商用车之家_网络重卡媒体_媒介平台_商用车自媒体联盟 - Powered by ECShop</title>
+<meta name="Description" content="5万" />
+<title>吉林华神重卡汽车销售有限公司_重卡50+_网络重卡媒体_商用车自媒体联盟 - Powered by ECShop</title>
 <link rel="shortcut icon" href="favicon.ico" />
 <link rel="icon" href="animated_favicon.gif" type="image/gif" />
 <link href="themes/default-0305/style.css" rel="stylesheet" type="text/css" />
@@ -68,11 +68,10 @@ function reg(str){
         <div class="content">
             <ul id="nav">
 		<li class="iconMedia"><a class="nav_current" href="/">首页<span></span></a></li>
-					<li class="iconMedia"><a class="" href="category.php?id=10">网络重卡媒体<span></span></a></li>
-					<li class="iconMedia"><a class="" href="category.php?id=11">纸媒重卡媒体<span></span></a></li>
-					<li class="iconMedia"><a class="" href="category.php?id=12">文案策划<span></span></a></li>
-					<li class="iconMedia"><a class="" href="category.php?id=13">企业公众号<span></span></a></li>
-					<li class="iconMedia"><a class="" href="category.php?id=14">意见领袖<span></span></a></li>
+					<li class="iconMedia"><a class="" href="category.php?id=3">重卡50+<span></span></a></li>
+					<li class="iconMedia"><a class="" href="category.php?id=4">轻卡29+<span></span></a></li>
+					<li class="iconMedia"><a class="" href="category.php?id=8">配件30+<span></span></a></li>
+					<li class="iconMedia"><a class="" href="category.php?id=9">经销商300+<span></span></a></li>
 				<li class="iconGrassroots"><a href="#">关于我们<span></span></a></li>
                 <!--
                 <li class="iconFamous"><a href="http://www.weiboyi.com/famous.php">名人/意见领袖预约<span></span></a></li>
@@ -118,7 +117,7 @@ function reg(str){
 </div>
 <div class="block box">
  <div id="ur_here">
-  当前位置: <a href=".">首页</a> <code>&gt;</code> <a href="category.php?id=1">媒介平台</a> <code>&gt;</code> <a href="category.php?id=10">网络重卡媒体</a> <code>&gt;</code> 商用车之家 </div>
+  当前位置: <a href=".">首页</a> <code>&gt;</code> <a href="category.php?id=2">网络重卡媒体</a> <code>&gt;</code> <a href="category.php?id=3">重卡50+</a> <code>&gt;</code> 吉林华神重卡汽车销售有限公司 </div>
 </div>
 <div class="blank"></div>
 <div class="block clearfix">
@@ -132,23 +131,19 @@ function reg(str){
  <div class="box_1">
   <div id="category_tree">
          <dl>
-     <dt><a href="category.php?id=10">网络重卡媒体</a></dt>
+     <dt><a href="category.php?id=3">重卡50+</a></dt>
             
        </dl>
          <dl>
-     <dt><a href="category.php?id=11">纸媒重卡媒体</a></dt>
+     <dt><a href="category.php?id=4">轻卡29+</a></dt>
             
        </dl>
          <dl>
-     <dt><a href="category.php?id=12">文案策划</a></dt>
+     <dt><a href="category.php?id=8">配件30+</a></dt>
             
        </dl>
          <dl>
-     <dt><a href="category.php?id=13">企业公众号</a></dt>
-            
-       </dl>
-         <dl>
-     <dt><a href="category.php?id=14">意见领袖</a></dt>
+     <dt><a href="category.php?id=9">经销商300+</a></dt>
             
        </dl>
      
@@ -190,8 +185,8 @@ document.getElementById('history_list').innerHTML = '您已清空最近浏览过
    <div id="goodsInfo" class="clearfix">
      
      <div class="imgInfo">
-          <a href="javascript:;" onclick="window.open('gallery.php?id=16'); return false;">
-      <img src="images/201603/goods_img/16_G_1457057577657.jpg" alt="商用车之家"/>
+          <a href="javascript:;" onclick="window.open('gallery.php?id=86'); return false;">
+      <img src="images/201603/goods_img/86_G_1457143681049.jpg" alt="吉林华神重卡汽车销售有限公司"/>
      </a>
               <div class="blank5"></div>
      
@@ -201,7 +196,7 @@ document.getElementById('history_list').innerHTML = '您已清空最近浏览过
         <div id="demo">
           <div id="demo1" style="float:left">
             <ul>
-                         <li><a href="gallery.php?id=16&amp;img=16" target="_blank"><img src="images/201603/thumb_img/16_thumb_P_1457057577252.jpg" alt="商用车之家" class="B_blue" /></a>
+                         <li><a href="gallery.php?id=86&amp;img=86" target="_blank"><img src="images/201603/thumb_img/86_thumb_P_1457143681859.jpg" alt="吉林华神重卡汽车销售有限公司" class="B_blue" /></a>
             </li>
                         </ul>
           </div>
@@ -314,11 +309,12 @@ document.getElementById('history_list').innerHTML = '您已清空最近浏览过
      </div>
      
      <div class="textInfo">
-     <form action="javascript:addToCart(16)" method="post" name="ECS_FORMBUY" id="ECS_FORMBUY" >
+     <form action="javascript:addToCart(86)" method="post" name="ECS_FORMBUY" id="ECS_FORMBUY" >
      <div class="clearfix">
-      <p class="f_l">商用车之家</p>
+      <p class="f_l">吉林华神重卡汽车销售有限公司</p>
       <p class="f_r">
-                  <a href="goods.php?id=15"><img alt="next" src="themes/default-0305/images/down.gif" /></a>
+            <a href="goods.php?id=88"><img alt="prev" src="themes/default-0305/images/up.gif" /></a>
+                  <a href="goods.php?id=85"><img alt="next" src="themes/default-0305/images/down.gif" /></a>
             </p>
       </div>
       <ul>
@@ -328,10 +324,10 @@ document.getElementById('history_list').innerHTML = '您已清空最近浏览过
             </li>
             <li class="clearfix">
        <dd>
-              <strong>商品货号：</strong>B0035              </dd>
+              <strong>商品货号：</strong>ECS000086              </dd>
        <dd class="ddR">
                          <strong>商品库存：</strong>
-          10000 30                     </dd>
+          10000 50                     </dd>
       </li>
       <li class="clearfix">
        <dd>
@@ -341,17 +337,17 @@ document.getElementById('history_list').innerHTML = '您已清空最近浏览过
       </li>
       <li class="clearfix">
        <dd>
-             <strong>上架时间：</strong>2016-03-04             </dd>
+             <strong>上架时间：</strong>2016-03-05             </dd>
        <dd class="ddR">
        
-       <strong>商品点击数：</strong>14       </dd>
+       <strong>商品点击数：</strong>3       </dd>
       </li>
       <li class="clearfix">
        <dd class="ddL">
-              <strong>市场价格：</strong><font class="market">￥264元</font><br />
+              <strong>市场价格：</strong><font class="market">￥180元</font><br />
               
-       <strong>本店售价：</strong><font class="shop" id="ECS_SHOPPRICE">￥220元</font><br />
-              <strong>注册用户：</strong><font class="shop" id="ECS_RANKPRICE_1">￥220元</font><br />
+       <strong>本店售价：</strong><font class="shop" id="ECS_SHOPPRICE">￥150元</font><br />
+              <strong>注册用户：</strong><font class="shop" id="ECS_RANKPRICE_1">￥150元</font><br />
               </dd>
        <dd style="width:48%; padding-left:7px;">
        <strong>用户评价：</strong>
@@ -372,15 +368,15 @@ document.getElementById('history_list').innerHTML = '您已清空最近浏览过
         <input name="number" type="text" id="number" value="1" size="4" onblur="changePrice()" style="border:1px solid #ccc; "/>
        </dd>
        <dd class="ddR">
-              <strong>购买此商品可使用：</strong><font class="f4">200 积分</font>
+              <strong>购买此商品可使用：</strong><font class="f4">100 积分</font>
               </dd>
       </li>
             
             
       <li class="padd">
-      <a href="javascript:addToCart(16)"><img src="themes/default-0305/images/bnt_cat.gif" /></a>
-      <a href="javascript:collect(16)"><img src="themes/default-0305/images/bnt_colles.gif" /></a>
-            <a href="user.php?act=affiliate&goodsid=16"><img src='themes/default-0305/images/bnt_recommend.gif'></a>
+      <a href="javascript:addToCart(86)"><img src="themes/default-0305/images/bnt_cat.gif" /></a>
+      <a href="javascript:collect(86)"><img src="themes/default-0305/images/bnt_colles.gif" /></a>
+            <a href="user.php?act=affiliate&goodsid=86"><img src='themes/default-0305/images/bnt_recommend.gif'></a>
             </li>
       </ul>
       </form>
@@ -400,9 +396,7 @@ document.getElementById('history_list').innerHTML = '您已清空最近浏览过
       <div id="com_v" class="boxCenterList RelaArticle"></div>
       <div id="com_h">
        <blockquote>
-        <p>中国商用车领域第一个商用车垂直大型门户网站</p>
-<p>网站日更新量达到600条以上；数据信息日更新量达到200条以上。在线访问量超28万次/日。</p>
-<p>&nbsp;<img width="904" height="626" src="/images/upload/Image/1.jpg" alt="" /></p>       </blockquote>
+               </blockquote>
      <blockquote>
       <table width="100%" border="0" cellpadding="3" cellspacing="1" bgcolor="#dddddd">
               </table>
@@ -429,7 +423,7 @@ document.getElementById('history_list').innerHTML = '您已清空最近浏览过
         <p>
           <input type="text" name="tag" id="tag" class="inputBg" size="35" />
           <input type="submit" value="添 加" class="bnt_blue" style="border:none;" />
-          <input type="hidden" name="goods_id" value="16"  />
+          <input type="hidden" name="goods_id" value="86"  />
         </p>
                 <script type="text/javascript">
                 //<![CDATA[
@@ -480,7 +474,7 @@ document.getElementById('history_list').innerHTML = '您已清空最近浏览过
      </div>
     </div>
     <div class="blank5"></div>
-<script type="text/javascript" src="js/utils.js"></script><div id="ECS_BOUGHT">554fcae493e564ee0dc75bdf2ebf94cabought_notes|a:2:{s:4:"name";s:12:"bought_notes";s:2:"id";i:16;}554fcae493e564ee0dc75bdf2ebf94ca</div><div id="ECS_COMMENT"> 554fcae493e564ee0dc75bdf2ebf94cacomments|a:3:{s:4:"name";s:8:"comments";s:4:"type";i:0;s:2:"id";i:16;}554fcae493e564ee0dc75bdf2ebf94ca</div>
+<script type="text/javascript" src="js/utils.js"></script><div id="ECS_BOUGHT">554fcae493e564ee0dc75bdf2ebf94cabought_notes|a:2:{s:4:"name";s:12:"bought_notes";s:2:"id";i:86;}554fcae493e564ee0dc75bdf2ebf94ca</div><div id="ECS_COMMENT"> 554fcae493e564ee0dc75bdf2ebf94cacomments|a:3:{s:4:"name";s:8:"comments";s:4:"type";i:0;s:2:"id";i:86;}554fcae493e564ee0dc75bdf2ebf94ca</div>
   </div>
   
 </div>
@@ -514,7 +508,7 @@ document.getElementById('history_list').innerHTML = '您已清空最近浏览过
 </div>
 </body>
 <script type="text/javascript">
-var goods_id = 16;
+var goods_id = 86;
 var goodsattr_style = 1;
 var gmt_end_time = 0;
 var day = "天";
@@ -522,8 +516,8 @@ var hour = "小时";
 var minute = "分钟";
 var second = "秒";
 var end = "结束";
-var goodsId = 16;
-var now_time = 1457588615;
+var goodsId = 86;
+var now_time = 1457591948;
 onload = function(){
   changePrice();
   fixpng();

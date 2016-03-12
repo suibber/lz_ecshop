@@ -1,4 +1,4 @@
-<?php exit;?>a:3:{s:8:"template";a:2:{i:0;s:45:"/var/www/ecshop/themes/default-0305/index.dwt";i:1;s:57:"/var/www/ecshop/themes/default-0305/library/cat_goods.lbi";}s:7:"expires";i:1457361159;s:8:"maketime";i:1457357559;}<!DOCTYPE html>
+<?php exit;?>a:3:{s:8:"template";a:3:{i:0;s:45:"/var/www/ecshop/themes/default-0305/index.dwt";i:1;s:59:"/var/www/ecshop/themes/default-0305/library/ad_position.lbi";i:2;s:57:"/var/www/ecshop/themes/default-0305/library/cat_goods.lbi";}s:7:"expires";i:1457718573;s:8:"maketime";i:1457714973;}<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta name="Generator" content="ECSHOP v2.7.3" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -68,7 +68,8 @@
     <div class="content">
         <div class="loginBox_show">
             <ul class="bannerHome_show bannerBoxContent">
-                <li><a target="_blank" href="http://chuanbo.weiboyi.com/wbq/index"><img src="index_files/banner_media02_v2.jpg"></a></li><li style="display: none;"><img src="index_files/banner_media03_v2.jpg"></li><li style="display: none;"><img src="index_files/banner_media01_v2.jpg"></li><li style="display: none;"><img src="index_files/banner_media04_v2.jpg"></li>            </ul>
+		
+554fcae493e564ee0dc75bdf2ebf94caads|a:3:{s:4:"name";s:3:"ads";s:2:"id";s:1:"2";s:3:"num";s:1:"4";}554fcae493e564ee0dc75bdf2ebf94ca
             <div class="bannerHome_fixedContent">
                 <span class="bannerHome_tabLeft"></span>
                 <ul class="bannerBoxControl">
@@ -1190,15 +1191,6 @@
 	<div class="ft_index_list_bottom">
 		粉丝数：	</div>
     </div>
-</div>
-<div class="blank"></div>
-<div style="display: block" class="accountCotent_left_content">
-</div>
-<div class="blank"></div>
-<div style="display: block" class="accountCotent_left_content">
-</div>
-<div class="blank"></div>
-<div style="display: block" class="accountCotent_left_content">
 </div>
 <div class="blank"></div>
 <div style="display: block" class="accountCotent_left_content">
