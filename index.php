@@ -27,6 +27,7 @@ $uachar = "/(nokia|sony|ericsson|mot|samsung|sgh|lg|philips|panasonic|alcatel|le
 
 if(($ua == '' || preg_match($uachar, $ua))&& !strpos(strtolower($_SERVER['REQUEST_URI']),'wap'))
 {
+/*
     $Loaction = 'mobile/';
 
     if (!empty($Loaction))
@@ -35,7 +36,7 @@ if(($ua == '' || preg_match($uachar, $ua))&& !strpos(strtolower($_SERVER['REQUES
 
         exit;
     }
-
+*/
 }
 /*------------------------------------------------------ */
 //-- Shopex系统地址转换
