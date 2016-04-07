@@ -27,7 +27,7 @@ if ($this->_foreach['nav_bottom_list']['total'] > 0):
 
 <div id="footer">
  <div class="text">
- <?php echo $this->_var['copyright']; ?><br />
+ 版权所有 © 北京豆芽奥特信息技术有限公司 2011-2016.<br />
  <?php echo $this->_var['shop_address']; ?> <?php echo $this->_var['shop_postcode']; ?>
  <?php if ($this->_var['service_phone']): ?>
       Tel: <?php echo $this->_var['service_phone']; ?>

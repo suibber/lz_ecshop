@@ -28,8 +28,21 @@ $data = array (
   ),
   2 => 
   array (
+    'cat_id' => '12',
+    'cat_name' => '微信公众号',
+    'measure_unit' => '200',
+    'parent_id' => '1',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => 22,
+  ),
+  3 => 
+  array (
     'cat_id' => '13',
-    'cat_name' => '企业公众号',
+    'cat_name' => 'Q群媒体',
     'measure_unit' => '50',
     'parent_id' => '1',
     'is_show' => '1',
@@ -37,12 +50,12 @@ $data = array (
     'grade' => '0',
     'sort_order' => '50',
     'has_children' => '0',
-    'goods_num' => '8',
+    'goods_num' => 27,
   ),
-  3 => 
+  4 => 
   array (
     'cat_id' => '10',
-    'cat_name' => '网络重卡媒体',
+    'cat_name' => '网络媒体',
     'measure_unit' => '30',
     'parent_id' => '1',
     'is_show' => '1',
@@ -50,9 +63,9 @@ $data = array (
     'grade' => '0',
     'sort_order' => '50',
     'has_children' => '0',
-    'goods_num' => '8',
+    'goods_num' => 13,
   ),
-  4 => 
+  5 => 
   array (
     'cat_id' => '14',
     'cat_name' => '意见领袖',
@@ -65,10 +78,10 @@ $data = array (
     'has_children' => '0',
     'goods_num' => '8',
   ),
-  5 => 
+  6 => 
   array (
     'cat_id' => '11',
-    'cat_name' => '纸媒重卡媒体',
+    'cat_name' => '自媒体',
     'measure_unit' => '20',
     'parent_id' => '1',
     'is_show' => '1',
@@ -76,48 +89,9 @@ $data = array (
     'grade' => '0',
     'sort_order' => '50',
     'has_children' => '0',
-    'goods_num' => '6',
-  ),
-  6 => 
-  array (
-    'cat_id' => '12',
-    'cat_name' => '文案策划',
-    'measure_unit' => '200',
-    'parent_id' => '1',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => '8',
+    'goods_num' => 26,
   ),
   7 => 
-  array (
-    'cat_id' => '4',
-    'cat_name' => '轻卡29+',
-    'measure_unit' => '50',
-    'parent_id' => '2',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => '8',
-  ),
-  8 => 
-  array (
-    'cat_id' => '8',
-    'cat_name' => '配件30+',
-    'measure_unit' => '30',
-    'parent_id' => '2',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => '8',
-  ),
-  9 => 
   array (
     'cat_id' => '9',
     'cat_name' => '经销商300+',
@@ -130,7 +104,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => '8',
   ),
-  10 => 
+  8 => 
   array (
     'cat_id' => '3',
     'cat_name' => '重卡50+',
@@ -142,6 +116,32 @@ $data = array (
     'sort_order' => '50',
     'has_children' => '0',
     'goods_num' => '25',
+  ),
+  9 => 
+  array (
+    'cat_id' => '4',
+    'cat_name' => '轻卡29+',
+    'measure_unit' => '50',
+    'parent_id' => '2',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => '8',
+  ),
+  10 => 
+  array (
+    'cat_id' => '8',
+    'cat_name' => '配件30+',
+    'measure_unit' => '30',
+    'parent_id' => '2',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => '8',
   ),
 );
 ?>

@@ -1,4 +1,4 @@
-<?php exit;?>a:3:{s:8:"template";a:17:{i:0;s:45:"/var/www/ecshop/themes/default-0305/goods.dwt";i:1;s:59:"/var/www/ecshop/themes/default-0305/library/page_header.lbi";i:2;s:55:"/var/www/ecshop/themes/default-0305/library/ur_here.lbi";i:3;s:52:"/var/www/ecshop/themes/default-0305/library/cart.lbi";i:4;s:61:"/var/www/ecshop/themes/default-0305/library/category_tree.lbi";i:5;s:61:"/var/www/ecshop/themes/default-0305/library/goods_related.lbi";i:6;s:62:"/var/www/ecshop/themes/default-0305/library/goods_fittings.lbi";i:7;s:61:"/var/www/ecshop/themes/default-0305/library/goods_article.lbi";i:8;s:64:"/var/www/ecshop/themes/default-0305/library/goods_attrlinked.lbi";i:9;s:55:"/var/www/ecshop/themes/default-0305/library/history.lbi";i:10;s:61:"/var/www/ecshop/themes/default-0305/library/goods_gallery.lbi";i:11;s:58:"/var/www/ecshop/themes/default-0305/library/goods_tags.lbi";i:12;s:60:"/var/www/ecshop/themes/default-0305/library/bought_goods.lbi";i:13;s:65:"/var/www/ecshop/themes/default-0305/library/bought_note_guide.lbi";i:14;s:56:"/var/www/ecshop/themes/default-0305/library/comments.lbi";i:15;s:52:"/var/www/ecshop/themes/default-0305/library/help.lbi";i:16;s:59:"/var/www/ecshop/themes/default-0305/library/page_footer.lbi";}s:7:"expires";i:1457623415;s:8:"maketime";i:1457619815;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?php exit;?>a:3:{s:8:"template";a:17:{i:0;s:45:"/var/www/ecshop/themes/default-0305/goods.dwt";i:1;s:59:"/var/www/ecshop/themes/default-0305/library/page_header.lbi";i:2;s:55:"/var/www/ecshop/themes/default-0305/library/ur_here.lbi";i:3;s:52:"/var/www/ecshop/themes/default-0305/library/cart.lbi";i:4;s:61:"/var/www/ecshop/themes/default-0305/library/category_tree.lbi";i:5;s:61:"/var/www/ecshop/themes/default-0305/library/goods_related.lbi";i:6;s:62:"/var/www/ecshop/themes/default-0305/library/goods_fittings.lbi";i:7;s:61:"/var/www/ecshop/themes/default-0305/library/goods_article.lbi";i:8;s:64:"/var/www/ecshop/themes/default-0305/library/goods_attrlinked.lbi";i:9;s:55:"/var/www/ecshop/themes/default-0305/library/history.lbi";i:10;s:61:"/var/www/ecshop/themes/default-0305/library/goods_gallery.lbi";i:11;s:58:"/var/www/ecshop/themes/default-0305/library/goods_tags.lbi";i:12;s:60:"/var/www/ecshop/themes/default-0305/library/bought_goods.lbi";i:13;s:65:"/var/www/ecshop/themes/default-0305/library/bought_note_guide.lbi";i:14;s:56:"/var/www/ecshop/themes/default-0305/library/comments.lbi";i:15;s:52:"/var/www/ecshop/themes/default-0305/library/help.lbi";i:16;s:59:"/var/www/ecshop/themes/default-0305/library/page_footer.lbi";}s:7:"expires";i:1459991934;s:8:"maketime";i:1459988334;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta name="Generator" content="ECSHOP v2.7.3" />
@@ -109,7 +109,7 @@ function reg(str){
   <form id="searchForm" name="searchForm" method="get" action="search.php" onSubmit="return checkSearchForm()" class="f_r"  style="_position:relative; top:5px;">
    <select name="category" id="category" class="B_input">
       <option value="0">所有分类</option>
-      <option value="1" >媒介平台</option><option value="13" >&nbsp;&nbsp;&nbsp;&nbsp;企业公众号</option><option value="10" >&nbsp;&nbsp;&nbsp;&nbsp;网络重卡媒体</option><option value="14" >&nbsp;&nbsp;&nbsp;&nbsp;意见领袖</option><option value="11" >&nbsp;&nbsp;&nbsp;&nbsp;纸媒重卡媒体</option><option value="12" >&nbsp;&nbsp;&nbsp;&nbsp;文案策划</option><option value="2" >网络重卡媒体</option><option value="4" >&nbsp;&nbsp;&nbsp;&nbsp;轻卡29+</option><option value="8" >&nbsp;&nbsp;&nbsp;&nbsp;配件30+</option><option value="9" >&nbsp;&nbsp;&nbsp;&nbsp;经销商300+</option><option value="3" >&nbsp;&nbsp;&nbsp;&nbsp;重卡50+</option>    </select>
+      <option value="1" >媒介平台</option><option value="12" >&nbsp;&nbsp;&nbsp;&nbsp;微信公众号</option><option value="13" >&nbsp;&nbsp;&nbsp;&nbsp;Q群媒体</option><option value="10" >&nbsp;&nbsp;&nbsp;&nbsp;网络媒体</option><option value="14" >&nbsp;&nbsp;&nbsp;&nbsp;意见领袖</option><option value="11" >&nbsp;&nbsp;&nbsp;&nbsp;自媒体</option><option value="2" >网络重卡媒体</option><option value="9" >&nbsp;&nbsp;&nbsp;&nbsp;经销商300+</option><option value="3" >&nbsp;&nbsp;&nbsp;&nbsp;重卡50+</option><option value="4" >&nbsp;&nbsp;&nbsp;&nbsp;轻卡29+</option><option value="8" >&nbsp;&nbsp;&nbsp;&nbsp;配件30+</option>    </select>
    <input name="keywords" type="text" id="keyword" value="" class="B_input" style="width:110px;"/>
    <input name="imageField" type="submit" value="" class="go" style="cursor:pointer;" />
    <a href="search.php?act=advanced_search">高级搜索</a>
@@ -340,7 +340,7 @@ document.getElementById('history_list').innerHTML = '您已清空最近浏览过
              <strong>上架时间：</strong>2016-03-06             </dd>
        <dd class="ddR">
        
-       <strong>商品点击数：</strong>0       </dd>
+       <strong>商品点击数：</strong>1       </dd>
       </li>
       <li class="clearfix">
        <dd class="ddL">
@@ -501,7 +501,7 @@ document.getElementById('history_list').innerHTML = '您已清空最近浏览过
 <div class="blank"></div>
 <div id="footer">
  <div class="text">
- &copy; 2005-2016 商用车自媒体联盟 版权所有，并保留所有权利。<br />
+ 版权所有 © 北京豆芽奥特信息技术有限公司 2011-2016.<br />
  朝阳区凯旋城                <a href="http://wpa.qq.com/msgrd?V=1&amp;Uin=123456&amp;Site=商用车自媒体联盟&amp;Menu=yes" target="_blank"><img src="http://wpa.qq.com/pa?p=1:123456:4" height="16" border="0" alt="QQ" /> 123456</a>
                                                                                 <br />
    </div>
@@ -517,7 +517,7 @@ var minute = "分钟";
 var second = "秒";
 var end = "结束";
 var goodsId = 90;
-var now_time = 1457591015;
+var now_time = 1459959534;
 onload = function(){
   changePrice();
   fixpng();

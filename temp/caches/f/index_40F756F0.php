@@ -1,4 +1,4 @@
-<?php exit;?>a:3:{s:8:"template";a:3:{i:0;s:45:"/var/www/ecshop/themes/default-0305/index.dwt";i:1;s:59:"/var/www/ecshop/themes/default-0305/library/ad_position.lbi";i:2;s:57:"/var/www/ecshop/themes/default-0305/library/cat_goods.lbi";}s:7:"expires";i:1458138464;s:8:"maketime";i:1458134864;}<!DOCTYPE html>
+<?php exit;?>a:3:{s:8:"template";a:3:{i:0;s:45:"/var/www/ecshop/themes/default-0305/index.dwt";i:1;s:59:"/var/www/ecshop/themes/default-0305/library/ad_position.lbi";i:2;s:57:"/var/www/ecshop/themes/default-0305/library/cat_goods.lbi";}s:7:"expires";i:1459952470;s:8:"maketime";i:1459948870;}<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta name="Generator" content="ECSHOP v2.7.3" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -215,25 +215,25 @@
     <ul class="accountCotent_left_title">
                                     <li class="accountCotent_title_current">
                     <a href="javascript:void(0);">
-                        <span>网络重卡媒体<b></b></span>
+                        <span>网络媒体<b></b></span>
                         <!--em>(300+)</em-->
                     </a>
                 </li>
                             <li class="">
                     <a href="javascript:void(0);">
-                        <span>纸媒重卡媒体<b></b></span>
+                        <span>自媒体<b></b></span>
                         <!--em>(300+)</em-->
                     </a>
                 </li>
                             <li class="">
                     <a href="javascript:void(0);">
-                        <span>文案策划<b></b></span>
+                        <span>微信公众号<b></b></span>
                         <!--em>(300+)</em-->
                     </a>
                 </li>
                             <li class="">
                     <a href="javascript:void(0);">
-                        <span>企业公众号<b></b></span>
+                        <span>Q群媒体<b></b></span>
                         <!--em>(300+)</em-->
                     </a>
                 </li>
@@ -247,6 +247,54 @@
 	    <div class="accountCotent_left_list">
 	      		
 <div style="display: block" class="accountCotent_left_content">
+    <div class="ft_index_list">
+	<div class="ft_index_list_top">
+		<div class="ft_index_list_top_right">
+			<div>
+				<a href="goods.php?id=132"><img src="images/201603/thumb_img/132_thumb_G_1458531614426.jpg" alt="卡车人" class="goodsimg" /></a>
+			</div>
+			<div>
+				查看报价
+			</div>
+		</div>
+		<div class="ft_index_list_top_left">
+			卡车人		</div>
+	</div>
+	<div class="ft_index_list_bottom">
+		粉丝数：50000	</div>
+    </div>
+    <div class="ft_index_list">
+	<div class="ft_index_list_top">
+		<div class="ft_index_list_top_right">
+			<div>
+				<a href="goods.php?id=131"><img src="images/201603/thumb_img/131_thumb_G_1458531530277.jpg" alt="中国卡车网" class="goodsimg" /></a>
+			</div>
+			<div>
+				查看报价
+			</div>
+		</div>
+		<div class="ft_index_list_top_left">
+			中国卡车网		</div>
+	</div>
+	<div class="ft_index_list_bottom">
+		粉丝数：500000	</div>
+    </div>
+    <div class="ft_index_list">
+	<div class="ft_index_list_top">
+		<div class="ft_index_list_top_right">
+			<div>
+				<a href="goods.php?id=130"><img src="images/201603/thumb_img/130_thumb_G_1458529819712.jpg" alt="卡车头条" class="goodsimg" /></a>
+			</div>
+			<div>
+				查看报价
+			</div>
+		</div>
+		<div class="ft_index_list_top_left">
+			卡车头条		</div>
+	</div>
+	<div class="ft_index_list_bottom">
+		粉丝数：20000	</div>
+    </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
 		<div class="ft_index_list_top_right">
@@ -359,21 +407,168 @@
 	<div class="ft_index_list_bottom">
 		粉丝数：1300	</div>
     </div>
+</div>
+<div class="blank"></div>
+<div style="display: block" class="accountCotent_left_content">
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
 		<div class="ft_index_list_top_right">
 			<div>
-				<a href="goods.php?id=9"><img src="images/201603/thumb_img/9_thumb_G_1457056203119.jpg" alt="卡车发烧友" class="goodsimg" /></a>
+				<a href="goods.php?id=113"><img src="images/201603/thumb_img/113_thumb_G_1458515481276.jpg" alt="卡车司机郝有财" class="goodsimg" /></a>
 			</div>
 			<div>
 				查看报价
 			</div>
 		</div>
 		<div class="ft_index_list_top_left">
-			卡车发烧友		</div>
+			卡车司机郝有财		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：180000	</div>
+		粉丝数：704536	</div>
+    </div>
+    <div class="ft_index_list">
+	<div class="ft_index_list_top">
+		<div class="ft_index_list_top_right">
+			<div>
+				<a href="goods.php?id=112"><img src="images/201603/thumb_img/112_thumb_G_1458515315506.jpg" alt="卡车首条" class="goodsimg" /></a>
+			</div>
+			<div>
+				查看报价
+			</div>
+		</div>
+		<div class="ft_index_list_top_left">
+			卡车首条		</div>
+	</div>
+	<div class="ft_index_list_bottom">
+		粉丝数：101286	</div>
+    </div>
+    <div class="ft_index_list">
+	<div class="ft_index_list_top">
+		<div class="ft_index_list_top_right">
+			<div>
+				<a href="goods.php?id=111"><img src="images/201603/thumb_img/111_thumb_G_1458515251843.jpg" alt="卡车论坛" class="goodsimg" /></a>
+			</div>
+			<div>
+				查看报价
+			</div>
+		</div>
+		<div class="ft_index_list_top_left">
+			卡车论坛		</div>
+	</div>
+	<div class="ft_index_list_bottom">
+		粉丝数：607894	</div>
+    </div>
+    <div class="ft_index_list">
+	<div class="ft_index_list_top">
+		<div class="ft_index_list_top_right">
+			<div>
+				<a href="goods.php?id=110"><img src="images/201603/thumb_img/110_thumb_G_1458515155967.jpg" alt="卡车大世界" class="goodsimg" /></a>
+			</div>
+			<div>
+				查看报价
+			</div>
+		</div>
+		<div class="ft_index_list_top_left">
+			卡车大世界		</div>
+	</div>
+	<div class="ft_index_list_bottom">
+		粉丝数：506786	</div>
+    </div>
+    <div class="ft_index_list">
+	<div class="ft_index_list_top">
+		<div class="ft_index_list_top_right">
+			<div>
+				<a href="goods.php?id=109"><img src="images/201603/thumb_img/109_thumb_G_1458514885332.jpg" alt="卡车界" class="goodsimg" /></a>
+			</div>
+			<div>
+				查看报价
+			</div>
+		</div>
+		<div class="ft_index_list_top_left">
+			卡车界		</div>
+	</div>
+	<div class="ft_index_list_bottom">
+		粉丝数：506934	</div>
+    </div>
+    <div class="ft_index_list">
+	<div class="ft_index_list_top">
+		<div class="ft_index_list_top_right">
+			<div>
+				<a href="goods.php?id=108"><img src="images/201603/thumb_img/108_thumb_G_1458514798564.jpg" alt="货运集结号" class="goodsimg" /></a>
+			</div>
+			<div>
+				查看报价
+			</div>
+		</div>
+		<div class="ft_index_list_top_left">
+			货运集结号		</div>
+	</div>
+	<div class="ft_index_list_bottom">
+		粉丝数：605342	</div>
+    </div>
+    <div class="ft_index_list">
+	<div class="ft_index_list_top">
+		<div class="ft_index_list_top_right">
+			<div>
+				<a href="goods.php?id=107"><img src="images/201603/thumb_img/107_thumb_G_1458514459703.jpg" alt="超级卡车" class="goodsimg" /></a>
+			</div>
+			<div>
+				查看报价
+			</div>
+		</div>
+		<div class="ft_index_list_top_left">
+			超级卡车		</div>
+	</div>
+	<div class="ft_index_list_bottom">
+		粉丝数：403265	</div>
+    </div>
+    <div class="ft_index_list">
+	<div class="ft_index_list_top">
+		<div class="ft_index_list_top_right">
+			<div>
+				<a href="goods.php?id=106"><img src="images/201603/thumb_img/106_thumb_G_1458514210886.jpg" alt="Super Truck" class="goodsimg" /></a>
+			</div>
+			<div>
+				查看报价
+			</div>
+		</div>
+		<div class="ft_index_list_top_left">
+			Super Truck		</div>
+	</div>
+	<div class="ft_index_list_bottom">
+		粉丝数：105673	</div>
+    </div>
+    <div class="ft_index_list">
+	<div class="ft_index_list_top">
+		<div class="ft_index_list_top_right">
+			<div>
+				<a href="goods.php?id=105"><img src="images/201603/thumb_img/105_thumb_G_1458514033038.jpg" alt="Future Truck" class="goodsimg" /></a>
+			</div>
+			<div>
+				查看报价
+			</div>
+		</div>
+		<div class="ft_index_list_top_left">
+			Future Truck		</div>
+	</div>
+	<div class="ft_index_list_bottom">
+		粉丝数：503672	</div>
+    </div>
+    <div class="ft_index_list">
+	<div class="ft_index_list_top">
+		<div class="ft_index_list_top_right">
+			<div>
+				<a href="goods.php?id=104"><img src="images/201603/thumb_img/104_thumb_G_1458512396559.jpg" alt="重卡兄弟连" class="goodsimg" /></a>
+			</div>
+			<div>
+				查看报价
+			</div>
+		</div>
+		<div class="ft_index_list_top_left">
+			重卡兄弟连		</div>
+	</div>
+	<div class="ft_index_list_bottom">
+		粉丝数：203160	</div>
     </div>
 </div>
 <div class="blank"></div>
@@ -382,101 +577,114 @@
 	<div class="ft_index_list_top">
 		<div class="ft_index_list_top_right">
 			<div>
-				<a href="goods.php?id=22"><img src="images/201603/thumb_img/22_thumb_G_1457058629196.jpg" alt="汽车族" class="goodsimg" /></a>
+				<a href="goods.php?id=120"><img src="images/201603/thumb_img/120_thumb_G_1458518243081.jpg" alt="汽车商业评论" class="goodsimg" /></a>
 			</div>
 			<div>
 				查看报价
 			</div>
 		</div>
 		<div class="ft_index_list_top_left">
-			汽车族		</div>
+			汽车商业评论		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：603478	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
 		<div class="ft_index_list_top_right">
 			<div>
-				<a href="goods.php?id=21"><img src="images/201603/thumb_img/21_thumb_G_1457058502600.jpg" alt="中国汽车画报" class="goodsimg" /></a>
+				<a href="goods.php?id=119"><img src="images/201603/thumb_img/119_thumb_G_1458518094649.jpg" alt="运满满" class="goodsimg" /></a>
 			</div>
 			<div>
 				查看报价
 			</div>
 		</div>
 		<div class="ft_index_list_top_left">
-			中国汽车画报		</div>
+			运满满		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：608934	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
 		<div class="ft_index_list_top_right">
 			<div>
-				<a href="goods.php?id=20"><img src="images/201603/thumb_img/20_thumb_G_1457058371800.jpg" alt="汽车与安全" class="goodsimg" /></a>
+				<a href="goods.php?id=118"><img src="images/201603/thumb_img/118_thumb_G_1458517715899.jpg" alt="车旺" class="goodsimg" /></a>
 			</div>
 			<div>
 				查看报价
 			</div>
 		</div>
 		<div class="ft_index_list_top_left">
-			汽车与安全		</div>
+			车旺		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：604723	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
 		<div class="ft_index_list_top_right">
 			<div>
-				<a href="goods.php?id=19"><img src="images/201603/thumb_img/19_thumb_G_1457058122156.jpg" alt="商用汽车" class="goodsimg" /></a>
+				<a href="goods.php?id=117"><img src="images/201603/thumb_img/117_thumb_G_1458517259700.jpg" alt="物流指闻" class="goodsimg" /></a>
 			</div>
 			<div>
 				查看报价
 			</div>
 		</div>
 		<div class="ft_index_list_top_left">
-			商用汽车		</div>
+			物流指闻		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：503498	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
 		<div class="ft_index_list_top_right">
 			<div>
-				<a href="goods.php?id=18"><img src="images/201603/thumb_img/18_thumb_G_1457057941042.jpg" alt="汽车与驾驶维修" class="goodsimg" /></a>
+				<a href="goods.php?id=116"><img src="images/201603/thumb_img/116_thumb_G_1458516726832.jpg" alt="卡团" class="goodsimg" /></a>
 			</div>
 			<div>
 				查看报价
 			</div>
 		</div>
 		<div class="ft_index_list_top_left">
-			汽车与驾驶维修		</div>
+			卡团		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：1007348	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
 		<div class="ft_index_list_top_right">
 			<div>
-				<a href="goods.php?id=17"><img src="images/201603/thumb_img/17_thumb_G_1457057774712.jpg" alt="卡车之友" class="goodsimg" /></a>
+				<a href="goods.php?id=115"><img src="images/201603/thumb_img/115_thumb_G_1458516517257.jpg" alt="驾驶员货运联盟" class="goodsimg" /></a>
 			</div>
 			<div>
 				查看报价
 			</div>
 		</div>
 		<div class="ft_index_list_top_left">
-			卡车之友		</div>
+			驾驶员货运联盟		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：302485	</div>
     </div>
-</div>
-<div class="blank"></div>
-<div style="display: block" class="accountCotent_left_content">
+    <div class="ft_index_list">
+	<div class="ft_index_list_top">
+		<div class="ft_index_list_top_right">
+			<div>
+				<a href="goods.php?id=114"><img src="images/201603/thumb_img/114_thumb_G_1458516338088.jpg" alt="宝妹货运" class="goodsimg" /></a>
+			</div>
+			<div>
+				查看报价
+			</div>
+		</div>
+		<div class="ft_index_list_top_left">
+			宝妹货运		</div>
+	</div>
+	<div class="ft_index_list_bottom">
+		粉丝数：203186	</div>
+    </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
 		<div class="ft_index_list_top_right">
@@ -523,87 +731,7 @@
 			灵思沸点影业总经理何小军		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
-    </div>
-    <div class="ft_index_list">
-	<div class="ft_index_list_top">
-		<div class="ft_index_list_top_right">
-			<div>
-				<a href="goods.php?id=35"><img src="images/201603/thumb_img/35_thumb_G_1457121873270.jpg" alt="微点传媒总经理夏耀红" class="goodsimg" /></a>
-			</div>
-			<div>
-				查看报价
-			</div>
-		</div>
-		<div class="ft_index_list_top_left">
-			微点传媒总经理夏耀红		</div>
-	</div>
-	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
-    </div>
-    <div class="ft_index_list">
-	<div class="ft_index_list_top">
-		<div class="ft_index_list_top_right">
-			<div>
-				<a href="goods.php?id=34"><img src="images/201603/thumb_img/34_thumb_G_1457121814728.jpg" alt="Scott Kronick" class="goodsimg" /></a>
-			</div>
-			<div>
-				查看报价
-			</div>
-		</div>
-		<div class="ft_index_list_top_left">
-			Scott Kronick		</div>
-	</div>
-	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
-    </div>
-    <div class="ft_index_list">
-	<div class="ft_index_list_top">
-		<div class="ft_index_list_top_right">
-			<div>
-				<a href="goods.php?id=33"><img src="images/201603/thumb_img/33_thumb_G_1457121762303.jpg" alt="明思力中国副主席吴霖培" class="goodsimg" /></a>
-			</div>
-			<div>
-				查看报价
-			</div>
-		</div>
-		<div class="ft_index_list_top_left">
-			明思力中国副主席吴霖培		</div>
-	</div>
-	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
-    </div>
-    <div class="ft_index_list">
-	<div class="ft_index_list_top">
-		<div class="ft_index_list_top_right">
-			<div>
-				<a href="goods.php?id=32"><img src="images/201603/thumb_img/32_thumb_G_1457121711378.jpg" alt="郝俊" class="goodsimg" /></a>
-			</div>
-			<div>
-				查看报价
-			</div>
-		</div>
-		<div class="ft_index_list_top_left">
-			郝俊		</div>
-	</div>
-	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
-    </div>
-    <div class="ft_index_list">
-	<div class="ft_index_list_top">
-		<div class="ft_index_list_top_right">
-			<div>
-				<a href="goods.php?id=31"><img src="images/201603/thumb_img/31_thumb_G_1457121643665.jpg" alt="李宁集团公关总监李纬" class="goodsimg" /></a>
-			</div>
-			<div>
-				查看报价
-			</div>
-		</div>
-		<div class="ft_index_list_top_left">
-			李宁集团公关总监李纬		</div>
-	</div>
-	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：100000	</div>
     </div>
 </div>
 <div class="blank"></div>
@@ -612,129 +740,161 @@
 	<div class="ft_index_list_top">
 		<div class="ft_index_list_top_right">
 			<div>
-				<a href="goods.php?id=30"><img src="images/201603/thumb_img/30_thumb_G_1457061648822.jpg" alt="JAC重卡" class="goodsimg" /></a>
+				<a href="goods.php?id=129"><img src="images/201603/thumb_img/129_thumb_G_1458524793910.jpg" alt="临沂欧曼自卸工程车" class="goodsimg" /></a>
 			</div>
 			<div>
 				查看报价
 			</div>
 		</div>
 		<div class="ft_index_list_top_left">
-			JAC重卡		</div>
+			临沂欧曼自卸工程车		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：984	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
 		<div class="ft_index_list_top_right">
 			<div>
-				<a href="goods.php?id=29"><img src="images/201603/thumb_img/29_thumb_G_1457061367708.jpg" alt="沃尔沃重卡" class="goodsimg" /></a>
+				<a href="goods.php?id=128"><img src="images/201603/thumb_img/128_thumb_G_1458524481077.jpg" alt="陕西货运物流群" class="goodsimg" /></a>
 			</div>
 			<div>
 				查看报价
 			</div>
 		</div>
 		<div class="ft_index_list_top_left">
-			沃尔沃重卡		</div>
+			陕西货运物流群		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：996	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
 		<div class="ft_index_list_top_right">
 			<div>
-				<a href="goods.php?id=28"><img src="images/201603/thumb_img/28_thumb_G_1457061246990.jpg" alt="斯堪尼亚" class="goodsimg" /></a>
+				<a href="goods.php?id=127"><img src="images/201603/thumb_img/127_thumb_G_1458523978788.jpg" alt="南北通物流货运市场" class="goodsimg" /></a>
 			</div>
 			<div>
 				查看报价
 			</div>
 		</div>
 		<div class="ft_index_list_top_left">
-			斯堪尼亚		</div>
+			南北通物流货运市场		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：999	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
 		<div class="ft_index_list_top_right">
 			<div>
-				<a href="goods.php?id=27"><img src="images/201603/thumb_img/27_thumb_G_1457061172088.jpg" alt="北奔重汽" class="goodsimg" /></a>
+				<a href="goods.php?id=126"><img src="images/201603/thumb_img/126_thumb_G_1458523822199.jpg" alt="腾达货运" class="goodsimg" /></a>
 			</div>
 			<div>
 				查看报价
 			</div>
 		</div>
 		<div class="ft_index_list_top_left">
-			北奔重汽		</div>
+			腾达货运		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：1289	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
 		<div class="ft_index_list_top_right">
 			<div>
-				<a href="goods.php?id=26"><img src="images/201603/thumb_img/26_thumb_G_1457061033184.jpg" alt="瑞力通达汽车销售服务有限公司" class="goodsimg" /></a>
+				<a href="goods.php?id=125"><img src="images/201603/thumb_img/125_thumb_G_1458523173926.jpg" alt="无锡货运物流群" class="goodsimg" /></a>
 			</div>
 			<div>
 				查看报价
 			</div>
 		</div>
 		<div class="ft_index_list_top_left">
-			瑞力通达汽车销售服务有限公司		</div>
+			无锡货运物流群		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：20087	</div>
+		粉丝数：1299	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
 		<div class="ft_index_list_top_right">
 			<div>
-				<a href="goods.php?id=25"><img src="images/201603/thumb_img/25_thumb_G_1457060892387.jpg" alt="中国重汽" class="goodsimg" /></a>
+				<a href="goods.php?id=124"><img src="images/201603/thumb_img/124_thumb_G_1458520418404.jpg" alt="珠三角物流交流群" class="goodsimg" /></a>
 			</div>
 			<div>
 				查看报价
 			</div>
 		</div>
 		<div class="ft_index_list_top_left">
-			中国重汽		</div>
+			珠三角物流交流群		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：1674	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
 		<div class="ft_index_list_top_right">
 			<div>
-				<a href="goods.php?id=24"><img src="images/201603/thumb_img/24_thumb_G_1457060754273.jpg" alt="一汽解放" class="goodsimg" /></a>
+				<a href="goods.php?id=123"><img src="images/201603/thumb_img/123_thumb_G_1458519488373.jpg" alt="车运通-卡车货运QQ群" class="goodsimg" /></a>
 			</div>
 			<div>
 				查看报价
 			</div>
 		</div>
 		<div class="ft_index_list_top_left">
-			一汽解放		</div>
+			车运通-卡车货运QQ群		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：1693	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
 		<div class="ft_index_list_top_right">
 			<div>
-				<a href="goods.php?id=23"><img src="images/201603/thumb_img/23_thumb_G_1457059832562.jpg" alt="福田重卡" class="goodsimg" /></a>
+				<a href="goods.php?id=122"><img src="images/201603/thumb_img/122_thumb_G_1458519296649.jpg" alt="库存车二手车" class="goodsimg" /></a>
 			</div>
 			<div>
 				查看报价
 			</div>
 		</div>
 		<div class="ft_index_list_top_left">
-			福田重卡		</div>
+			库存车二手车		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：1995	</div>
+    </div>
+    <div class="ft_index_list">
+	<div class="ft_index_list_top">
+		<div class="ft_index_list_top_right">
+			<div>
+				<a href="goods.php?id=121"><img src="images/201603/thumb_img/121_thumb_G_1458519169434.jpg" alt="长江内河货运交流总群" class="goodsimg" /></a>
+			</div>
+			<div>
+				查看报价
+			</div>
+		</div>
+		<div class="ft_index_list_top_left">
+			长江内河货运交流总群		</div>
+	</div>
+	<div class="ft_index_list_bottom">
+		粉丝数：1999	</div>
+    </div>
+    <div class="ft_index_list">
+	<div class="ft_index_list_top">
+		<div class="ft_index_list_top_right">
+			<div>
+				<a href="goods.php?id=103"><img src="images/201603/thumb_img/103_thumb_G_1458504991501.jpg" alt="超能卡车军团" class="goodsimg" /></a>
+			</div>
+			<div>
+				查看报价
+			</div>
+		</div>
+		<div class="ft_index_list_top_left">
+			超能卡车军团		</div>
+	</div>
+	<div class="ft_index_list_bottom">
+		粉丝数：1160	</div>
     </div>
 </div>
 <div class="blank"></div>
@@ -753,7 +913,7 @@
 			中国卡车网编辑路桐一		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：20000	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
@@ -785,7 +945,7 @@
 			卡车联盟专业评论员金文旭		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：6000	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
@@ -817,7 +977,7 @@
 			中国商用汽车网编辑龚磊		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：10000	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
@@ -833,7 +993,7 @@
 			商用车之家负责人杨连辉		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：56000	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
@@ -849,7 +1009,7 @@
 			卡车之友网站总编辑王晓辉		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：1265	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
@@ -1010,7 +1170,7 @@
 			弗列加空滤		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：是你高性能的发动机投资	</div>
+		粉丝数：12987	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
@@ -1026,7 +1186,7 @@
 			自卸车01		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：50000	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
@@ -1077,7 +1237,7 @@
 			湖北三环元通汽车有限公司		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：5000	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
@@ -1093,7 +1253,7 @@
 			漳州福尔汽车贸易有限公司		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：2500	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
@@ -1109,7 +1269,7 @@
 			厦门百成鑫汽贸公司		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：4500	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
@@ -1125,7 +1285,7 @@
 			弗列加空滤		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：是你高性能的发动机投资	</div>
+		粉丝数：7534	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
@@ -1173,7 +1333,7 @@
 			威伯科WABCO		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：12563	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
@@ -1189,7 +1349,7 @@
 			轻卡01		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：3475	</div>
     </div>
 </div>
 <div class="blank"></div>
@@ -1208,7 +1368,7 @@
 			派克粗滤		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：2000	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
@@ -1224,7 +1384,7 @@
 			弗列加空滤		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：是你高性能的发动机投资	</div>
+		粉丝数：3000	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
@@ -1240,7 +1400,7 @@
 			denso		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：2500	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
@@ -1256,7 +1416,7 @@
 			康明斯发动机		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：2300	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
@@ -1288,7 +1448,7 @@
 			韩泰轮胎		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：6500	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
@@ -1320,7 +1480,7 @@
 			壳牌喜力		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：5000	</div>
     </div>
 </div>
 <div class="blank"></div>
@@ -1339,7 +1499,7 @@
 			哈尔滨风华工贸有限公司		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：10000	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
@@ -1355,7 +1515,7 @@
 			保定鑫光明汽车贸易有限公司		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：10000	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
@@ -1371,7 +1531,7 @@
 			安徽瑞鑫汽车销售服务有限公司		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：10000	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
@@ -1387,7 +1547,7 @@
 			安徽安瑞汽车销售有限公司		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：10000	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
@@ -1403,7 +1563,7 @@
 			北京庞大华创		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：10000	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
@@ -1419,7 +1579,7 @@
 			北京佳和创世工贸有限公司		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：10000	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
@@ -1435,7 +1595,7 @@
 			北京众义远达汽车贸易有限公司		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：10000	</div>
     </div>
     <div class="ft_index_list">
 	<div class="ft_index_list_top">
@@ -1451,7 +1611,7 @@
 			天津中北永恒商贸有限公司		</div>
 	</div>
 	<div class="ft_index_list_bottom">
-		粉丝数：	</div>
+		粉丝数：10000	</div>
     </div>
 </div>
 <div class="blank"></div>
@@ -1553,7 +1713,7 @@
             <a href="#">法律/免责声明</a><span>|</span>
             <a href="#">邮箱白名单设置</a>
         </p>
-        <p>版权所有 © 北京科技有限公司 2011-2016.</p>
+        <p>版权所有 © 北京豆芽奥特信息技术有限公司 2011-2016.</p>
         <p>
             <a href="http://www.itrust.org.cn/yz/pjwx.asp?wm=168437474x" target="_blank">
                 <img src="index_files/elect_ident.jpg">

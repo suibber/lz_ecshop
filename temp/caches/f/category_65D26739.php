@@ -1,4 +1,4 @@
-<?php exit;?>a:3:{s:8:"template";a:11:{i:0;s:48:"/var/www/ecshop/themes/default-0305/category.dwt";i:1;s:59:"/var/www/ecshop/themes/default-0305/library/page_header.lbi";i:2;s:55:"/var/www/ecshop/themes/default-0305/library/ur_here.lbi";i:3;s:52:"/var/www/ecshop/themes/default-0305/library/cart.lbi";i:4;s:61:"/var/www/ecshop/themes/default-0305/library/category_tree.lbi";i:5;s:55:"/var/www/ecshop/themes/default-0305/library/history.lbi";i:6;s:62:"/var/www/ecshop/themes/default-0305/library/recommend_best.lbi";i:7;s:58:"/var/www/ecshop/themes/default-0305/library/goods_list.lbi";i:8;s:53:"/var/www/ecshop/themes/default-0305/library/pages.lbi";i:9;s:52:"/var/www/ecshop/themes/default-0305/library/help.lbi";i:10;s:59:"/var/www/ecshop/themes/default-0305/library/page_footer.lbi";}s:7:"expires";i:1458045650;s:8:"maketime";i:1458042050;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?php exit;?>a:3:{s:8:"template";a:11:{i:0;s:48:"/var/www/ecshop/themes/default-0305/category.dwt";i:1;s:59:"/var/www/ecshop/themes/default-0305/library/page_header.lbi";i:2;s:55:"/var/www/ecshop/themes/default-0305/library/ur_here.lbi";i:3;s:52:"/var/www/ecshop/themes/default-0305/library/cart.lbi";i:4;s:61:"/var/www/ecshop/themes/default-0305/library/category_tree.lbi";i:5;s:55:"/var/www/ecshop/themes/default-0305/library/history.lbi";i:6;s:62:"/var/www/ecshop/themes/default-0305/library/recommend_best.lbi";i:7;s:58:"/var/www/ecshop/themes/default-0305/library/goods_list.lbi";i:8;s:53:"/var/www/ecshop/themes/default-0305/library/pages.lbi";i:9;s:52:"/var/www/ecshop/themes/default-0305/library/help.lbi";i:10;s:59:"/var/www/ecshop/themes/default-0305/library/page_footer.lbi";}s:7:"expires";i:1459635016;s:8:"maketime";i:1459631416;}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta name="Generator" content="ECSHOP v2.7.3" />
@@ -83,7 +83,7 @@
   <form id="searchForm" name="searchForm" method="get" action="search.php" onSubmit="return checkSearchForm()" class="f_r"  style="_position:relative; top:5px;">
    <select name="category" id="category" class="B_input">
       <option value="0">所有分类</option>
-      <option value="1" >媒介平台</option><option value="13" >&nbsp;&nbsp;&nbsp;&nbsp;企业公众号</option><option value="10" >&nbsp;&nbsp;&nbsp;&nbsp;网络重卡媒体</option><option value="14" >&nbsp;&nbsp;&nbsp;&nbsp;意见领袖</option><option value="11" >&nbsp;&nbsp;&nbsp;&nbsp;纸媒重卡媒体</option><option value="12" >&nbsp;&nbsp;&nbsp;&nbsp;文案策划</option><option value="2" >网络重卡媒体</option><option value="4" >&nbsp;&nbsp;&nbsp;&nbsp;轻卡29+</option><option value="8" >&nbsp;&nbsp;&nbsp;&nbsp;配件30+</option><option value="9" >&nbsp;&nbsp;&nbsp;&nbsp;经销商300+</option><option value="3" >&nbsp;&nbsp;&nbsp;&nbsp;重卡50+</option>    </select>
+      <option value="1" >媒介平台</option><option value="12" >&nbsp;&nbsp;&nbsp;&nbsp;微信公众号</option><option value="13" >&nbsp;&nbsp;&nbsp;&nbsp;Q群媒体</option><option value="10" >&nbsp;&nbsp;&nbsp;&nbsp;网络媒体</option><option value="14" >&nbsp;&nbsp;&nbsp;&nbsp;意见领袖</option><option value="11" >&nbsp;&nbsp;&nbsp;&nbsp;自媒体</option><option value="2" >网络重卡媒体</option><option value="9" >&nbsp;&nbsp;&nbsp;&nbsp;经销商300+</option><option value="3" >&nbsp;&nbsp;&nbsp;&nbsp;重卡50+</option><option value="4" >&nbsp;&nbsp;&nbsp;&nbsp;轻卡29+</option><option value="8" >&nbsp;&nbsp;&nbsp;&nbsp;配件30+</option>    </select>
    <input name="keywords" type="text" id="keyword" value="" class="B_input" style="width:110px;"/>
    <input name="imageField" type="submit" value="" class="go" style="cursor:pointer;" />
    <a href="search.php?act=advanced_search">高级搜索</a>
@@ -106,10 +106,10 @@
   <div id="category_tree">
          <dl>
      <dt><a href="category.php?id=1">媒介平台</a></dt>
-          <dd><a href="category.php?id=10">网络重卡媒体</a></dd>
-                 <dd><a href="category.php?id=11">纸媒重卡媒体</a></dd>
-                 <dd><a href="category.php?id=12">文案策划</a></dd>
-                 <dd><a href="category.php?id=13">企业公众号</a></dd>
+          <dd><a href="category.php?id=10">网络媒体</a></dd>
+                 <dd><a href="category.php?id=11">自媒体</a></dd>
+                 <dd><a href="category.php?id=12">微信公众号</a></dd>
+                 <dd><a href="category.php?id=13">Q群媒体</a></dd>
                  <dd><a href="category.php?id=14">意见领袖</a></dd>
                    
        </dl>
@@ -352,7 +352,7 @@ function selectPage(sel)
 <div class="blank"></div>
 <div id="footer">
  <div class="text">
- &copy; 2005-2016 商用车自媒体联盟 版权所有，并保留所有权利。<br />
+ 版权所有 © 北京豆芽奥特信息技术有限公司 2011-2016.<br />
  朝阳区凯旋城                <a href="http://wpa.qq.com/msgrd?V=1&amp;Uin=123456&amp;Site=商用车自媒体联盟&amp;Menu=yes" target="_blank"><img src="http://wpa.qq.com/pa?p=1:123456:4" height="16" border="0" alt="QQ" /> 123456</a>
                                                                                 <br />
    </div>
